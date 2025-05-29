@@ -1,10 +1,3 @@
-
-
-    
-
-   
-# Main Struc
-
 print("Welcome to the Calculator ")
 
 Name = input("Please Enter Ur name ")
